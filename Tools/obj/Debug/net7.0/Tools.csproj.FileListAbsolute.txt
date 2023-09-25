@@ -1,0 +1,14 @@
+E:\tareitas\Capitas\LamasKpita\Tools\bin\Debug\net7.0\Tools.deps.json
+E:\tareitas\Capitas\LamasKpita\Tools\bin\Debug\net7.0\Tools.runtimeconfig.json
+E:\tareitas\Capitas\LamasKpita\Tools\bin\Debug\net7.0\Tools.dll
+E:\tareitas\Capitas\LamasKpita\Tools\bin\Debug\net7.0\Tools.pdb
+E:\tareitas\Capitas\LamasKpita\Tools\obj\Debug\net7.0\Tools.csproj.AssemblyReference.cache
+E:\tareitas\Capitas\LamasKpita\Tools\obj\Debug\net7.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+E:\tareitas\Capitas\LamasKpita\Tools\obj\Debug\net7.0\Tools.AssemblyInfoInputs.cache
+E:\tareitas\Capitas\LamasKpita\Tools\obj\Debug\net7.0\Tools.AssemblyInfo.cs
+E:\tareitas\Capitas\LamasKpita\Tools\obj\Debug\net7.0\Tools.csproj.CoreCompileInputs.cache
+E:\tareitas\Capitas\LamasKpita\Tools\obj\Debug\net7.0\Tools.dll
+E:\tareitas\Capitas\LamasKpita\Tools\obj\Debug\net7.0\refint\Tools.dll
+E:\tareitas\Capitas\LamasKpita\Tools\obj\Debug\net7.0\Tools.pdb
+E:\tareitas\Capitas\LamasKpita\Tools\obj\Debug\net7.0\Tools.genruntimeconfig.cache
+E:\tareitas\Capitas\LamasKpita\Tools\obj\Debug\net7.0\ref\Tools.dll
